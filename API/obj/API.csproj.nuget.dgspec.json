@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zentop\\source\\repos\\DatingAppLocal\\api\\API.csproj": {}
+    "C:\\Users\\Zentop\\source\\repos\\DatingAppLocal\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zentop\\source\\repos\\DatingAppLocal\\api\\API.csproj": {
+    "C:\\Users\\Zentop\\source\\repos\\DatingAppLocal\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zentop\\source\\repos\\DatingAppLocal\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Zentop\\source\\repos\\DatingAppLocal\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Zentop\\source\\repos\\DatingAppLocal\\api\\API.csproj",
+        "projectPath": "C:\\Users\\Zentop\\source\\repos\\DatingAppLocal\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Zentop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zentop\\source\\repos\\DatingAppLocal\\api\\obj\\",
+        "outputPath": "C:\\Users\\Zentop\\source\\repos\\DatingAppLocal\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
